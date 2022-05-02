@@ -2,9 +2,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.laptrinhjava.chuong03.coffeelogic;
+package com.mycompany.laptrinhjava.chuong2.employeelogic;
 
-import com.mycompany.laptrinhjava.chuong2.employeelogic.*;
 import java.util.Date;
 
 /**
