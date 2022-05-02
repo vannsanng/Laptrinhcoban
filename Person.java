@@ -2,8 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.laptrinhjava.donglenh.Bai2;
+package com.mycompany.laptrinhjava.chuong03.coffeelogic;
 
+import com.mycompany.laptrinhjava.chuong2.employeelogic.*;
 import java.util.Date;
 
 /**
@@ -47,6 +48,13 @@ public class Person {
     public void setNS(Date NS) {
         this.NS = NS;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" + "HoTen=" + HoTen + ", GT=" + GT + ", NS=" + NS + '}';
+    }
+    
+    
     
     
 }
